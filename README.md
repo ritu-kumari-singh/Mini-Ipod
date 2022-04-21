@@ -1,10 +1,10 @@
 # Features 
-  ## A menu of options such as Settings, Games, Music and Coverflow.
-  ## On clicking of the centre button go inside the menu
-  ## Clicking on the menu hides the menu and open a screen of that particular option, like settings, games etc
-  ## Click and hold on the circular menu and move the mouse in a circular fashion inside the menu boundary to navigate in the iPod menu
-  ## Clicking on “Menu” takes you back to the main menu
-  ## sub menu inside menu like in Music option, it has sub menu with options “All songs”, “Artists” and "Albums"
+  1) A menu of options such as Settings, Games, Music and Coverflow.
+  2) On clicking of the centre button go inside the menu
+  3) Clicking on the menu hides the menu and open a screen of that particular option, like settings, games etc
+  4) Click and hold on the circular menu and move the mouse in a circular fashion inside the menu boundary to navigate in the iPod menu
+  5) Clicking on “Menu” takes you back to the main menu
+  6) sub menu inside menu like in Music option, it has sub menu with options “All songs”, “Artists” and "Albums"
 
 # Getting Started with Create React App
 
